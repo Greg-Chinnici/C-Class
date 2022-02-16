@@ -1,6 +1,6 @@
-// @file <hello_namespace.cpp>
-// @brief <prints a word then prints an input>
-// @author chinnici@chapman.edu
+/// @file <hello_namespace.cpp>
+/// @brief <prints a word then prints an input>
+/// @author chinnici@chapman.edu
 #include <iostream>
 using namespace std;
 int main()
