@@ -7,7 +7,7 @@ int main()
 {
     string strMessage;
     cout << "Halo" << endl;
-    cin >> strmessage;
+    cin >> strMessage;
     cout << "Message: " << strMessage << endl;
     return 0;
 }
