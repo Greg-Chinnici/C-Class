@@ -39,7 +39,7 @@ std::string a_strNotes[] = {
             dWavelengthCentimeters =  100 * speedOfSound / f;
             
             // ?? (Need to compute offset into array based on nu and k)
-            index = nu + k ;
+            index = 12 * nu + k ;
             strNote = a_strNotes[index];
          
             std::cout << "Note: " << strNote << "; nu: " << nu << "; k: " << k << "; frequency: " << f << " Hz; wavelength: " << dWavelengthCentimeters << " cm" << std::endl;
