@@ -1,0 +1,1 @@
+getting frequencies with functions
